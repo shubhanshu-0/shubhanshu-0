@@ -34,9 +34,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shubhanshu-0/shubhanshu-0/output/snake.svg" alt="Snake animation" />
-
-###
