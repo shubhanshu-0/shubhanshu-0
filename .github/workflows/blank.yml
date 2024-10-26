@@ -38,7 +38,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     environment: 
-      name: SHUHBANSHU
+      name: shubhanshu
     permissions:
       contents: write
     steps:
