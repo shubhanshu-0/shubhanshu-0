@@ -81,3 +81,9 @@ jobs:
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          config_display: columns
+          config_order: |
+            header
+            activity | community | repositories | metadata
+            achievements | languages
