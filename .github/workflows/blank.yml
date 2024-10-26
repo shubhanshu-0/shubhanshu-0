@@ -72,4 +72,4 @@ jobs:
           plugin_people_types: contributors, stargazers, watchers, sponsors
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
