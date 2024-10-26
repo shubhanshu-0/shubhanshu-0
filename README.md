@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubhanshu Saraf</h1>
-<h3 align="center">OK OK</h3>
+<h1 align="center">I'm Shubhanshu Saraf</h1>
 
 
 ## 🌐 Socials:
