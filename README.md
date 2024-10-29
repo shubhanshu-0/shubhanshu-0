@@ -15,13 +15,14 @@
 ###
 
 <div align="left">
-  <a href="mailto:shubhanshusaraf@gmail.com" target="_blank">
+  <a href="mailto:jshubhanshusaraf@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=9e0814&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/shubhanshu-saraf/" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhanshu-saraf/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=002e99&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
 
 ###
 
