@@ -2,7 +2,14 @@
 
 ###
 
-<h1 align="left">HEY , I'M SHUBHANSHU !</h1>
+<h1 align="center">Hi 👋, I'm Shubhanshu Saraf</h1>
+<h3 align="center">B.Tech @ NIT Raipur !</h3>
+
+- 🌱 I’m currently learning **lot of things !**
+
+- 💬 Ask me about **DSA | CP | BACKEND | FRONTEND !**
+
+- 📫 How to reach me **shubhanshusaraf@gmail.com**
 
 ###
 
