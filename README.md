@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -54,9 +54,11 @@
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=shubhanshu-0&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhanshu-0&radius=16&theme=nightowl&area=true&order=5&hide_border=true&hide_title=true&bg_color=00000" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=shubhanshu-0&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhanshu-0&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true&bg_color=0000" height="300" alt="activity-graph graph"  />
 </div>
+
+###
 
 ###
 
