@@ -1,9 +1,12 @@
-<img align="right" height="170" src="https://giffiles.alphacoders.com/211/211791.gif"  />
 
 ###
 
-<h1 align="center">Hi 👋, I'm Shubhanshu Saraf</h1>
-<h3 align="center">B.Tech @ NIT Raipur !</h3>
+<h1 align="left">Hi 👋, I'm Shubhanshu Saraf</h1>
+<h3 align="left">B.Tech @ NIT Raipur !</h3>
+
+
+<img align="right" height="170" src="https://giffiles.alphacoders.com/211/211791.gif"  />
+
 
 - 🌱 I’m currently learning **lot of things !**
 
