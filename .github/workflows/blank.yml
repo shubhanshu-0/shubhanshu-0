@@ -72,13 +72,9 @@ jobs:
           plugin_habits_charts: yes
           config_timezone: Asia/Kolkata
 
-          plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://lecoq.io
-
           plugin_people: yes
           plugin_people_types: contributors, stargazers, watchers, sponsors
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
 
