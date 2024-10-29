@@ -12,13 +12,14 @@
 
 - 💬 Ask me about **DSA | CP | BACKEND | FRONTEND !**
 
-- 📫 How to reach me **shubhanshusaraf@gmail.com**
-
 ###
 
 <div align="left">
+  <a href="mailto:jshubhanshusaraf@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=9e0814&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/shubhanshu-saraf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=002e99&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
