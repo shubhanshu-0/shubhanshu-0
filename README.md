@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **lot of things !**
 
-- 💬 Ask me about **DSA | CP | BACKEND | FRONTEND !**
+- 💬 Ask me about **DSA | CP | BACKEND | VIDEO PROCESSING PIPELINES !**
 
 ###
 
