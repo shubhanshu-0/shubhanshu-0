@@ -7,10 +7,7 @@
 
 <img align="right" height="170" src="https://giffiles.alphacoders.com/211/211791.gif"  />
 
-
-- 🌱 I’m currently learning **lot of things !**
-
-- 💬 Ask me about **DSA | CP | BACKEND | VIDEO PROCESSING PIPELINES !**
+- 💬 Ask me about **DSA | CP | BACKEND | DATA PIPELINES !**
 
 ###
 
