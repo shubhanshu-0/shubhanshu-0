@@ -44,15 +44,6 @@
 
 ###
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhanshu-0&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true&bg_color=0000" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-###
-
 <hr>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
